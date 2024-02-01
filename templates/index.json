@@ -13,11 +13,18 @@
             "padding": 50
           },
           "blocks": {
+            "icon_8FBpPx": {
+              "type": "icon",
+              "settings": {
+                "icon": "apple",
+                "width": 44
+              }
+            },
             "a472dc2a-4c3b-41a8-8cec-3bd05ab1b009": {
               "type": "heading",
               "settings": {
                 "heading": "Browse our latest products",
-                "heading_size": "h1",
+                "heading_size": "h0",
                 "alignment": "start"
               }
             },
@@ -42,6 +49,7 @@
             }
           },
           "block_order": [
+            "icon_8FBpPx",
             "a472dc2a-4c3b-41a8-8cec-3bd05ab1b009",
             "c5ad2ddb-b92c-4478-9b6d-db611df876d2",
             "0f15950c-52b8-437c-ab09-a30df142726a"
@@ -103,7 +111,7 @@
                   "type": "product-card",
                   "settings": {
                     "product": "",
-                    "width": 100,
+                    "width": 71,
                     "ratio": "1"
                   }
                 }
